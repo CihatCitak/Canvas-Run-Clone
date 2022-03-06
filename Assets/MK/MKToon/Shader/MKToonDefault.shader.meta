@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 881c73b45dda42d4ba29f8c7742329be
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _DetailAlbedoMap: {instanceID: 0}
+  - _DetailNormalMap: {instanceID: 0}
+  - _BumpMap: {instanceID: 0}
+  - _Ramp: {instanceID: 0}
+  - _OcclusionMap: {instanceID: 0}
+  - _SpecGlossMap: {instanceID: 0}
+  - _AnisoMap: {instanceID: 0}
+  - _ReflectMap: {instanceID: 0}
+  - _DissolveMap: {instanceID: 0}
+  - _DissolveRamp: {instanceID: 0}
+  - _TranslucentMap: {instanceID: 0}
+  - _EmissionMap: {instanceID: 0}
+  - _SketchMap: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
